@@ -2,16 +2,16 @@ variable tags {
   type = map
   default = {
     TTL   = "48"
-    owner = "Grant Orchard"
+    owner = "Burkey"
   }
 }
 
 variable public_subnets {
   type = list
   default = [
-    "10.0.101.0/24",
-    "10.0.102.0/24",
-    "10.0.103.0/24"
+    "10.0.111.0/24",
+    "10.0.112.0/24",
+    "10.0.113.0/24"
   ]
 }
 
