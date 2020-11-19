@@ -3,7 +3,6 @@ variable tags {
   default = {
     TTL   = "48"
     owner = "Burkey"
-    rep = "steve"
   }
 }
 
